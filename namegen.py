@@ -1,4 +1,4 @@
-\\TODO: correct out of range error in female Halfling and Dwarf namegen  
+#TODO: correct out of range error in female Halfling and Dwarf namegen
 
 import string
 import random
@@ -14,7 +14,7 @@ dwarfFemaleNames = ['Amber', 'Artin', 'Audhild', 'Bardryn',
                     'Dagnal', 'Diesa', 'Eldeth', 'Falkrunn', 'Finellen',
                     'Gunnloda', 'Gurdis', 'Helja', 'Hlin', 'Kathra', 'Kristryd',
                     'Ilde', 'Liftrasa', 'Mardred', 'Riswynn', 'Sannl',
-                    'Torbera', 'Torgga', 'Wigga', 'Daghilde', 'Hilde'
+                    'Torbera', 'Torgga', 'Wigga', 'Daghilde', 'Hilde',
                     'Jorunn', 'Porunn', 'Helga', 'Hilda', 'Lorna']
 
 dwarfClanNames =  ['Balderk', 'Battlehammer', 'Brawnanvil', 'Dankil',
@@ -48,7 +48,7 @@ halflingMaleNames = ['Alton', 'Ander', 'Cade', 'Corrin', 'Eldon', 'Errich',
 
 halflingFemaleNames = ['Andry', 'Bree', 'Callie', 'Cora', 'Euphemia', 'Jillian',
                        'Kithri', 'Lavinia', 'Lidda', 'Merla', 'Nedda', 'Paela',
-                       'Portia', 'Seraphina', 'Shaena', 'Trym', 'Vani', 'Verna'
+                       'Portia', 'Seraphina', 'Shaena', 'Trym', 'Vani', 'Verna',
                        'Lilina', 'Rose']
 
 halflingFamilyNames = ['Brushgather', 'Goodbarrel', 'Greenbottle', 'High-hill',
