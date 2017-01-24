@@ -1,5 +1,3 @@
-#TODO: correct out of range error in female Halfling and Dwarf namegen
-
 import string
 import random
 
